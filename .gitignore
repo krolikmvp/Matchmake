@@ -1,0 +1,11 @@
+
+# File with a secret key
+secret_file.py
+
+# Database file
+*.sqlite3
+
+# Misc
+*.pyc
+__pycache__/*
+.idea/*
